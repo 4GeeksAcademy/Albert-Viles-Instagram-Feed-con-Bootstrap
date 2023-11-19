@@ -1,0 +1,15 @@
+.nav-link.active > i {
+    color: #0d6efd !important; /* Reemplaza #tuColorDeseado con el código de color que prefieras */
+}
+
+.modal-body {
+    text-area
+}
+
+
+
+.btn1, .btn2 {
+    border-radius: 15%;
+    border : 1;  
+    border-color : transparent;    
+}
